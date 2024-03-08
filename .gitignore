@@ -1,2 +1,8 @@
+*.json
+*.out
+output/lzwDecoded.txt
+output/lzwEncoded.txt
+output/rleDecoded.txt
+output/rleEncoded.txt
 /.vscode
-a.out
+input/repeated.txt
